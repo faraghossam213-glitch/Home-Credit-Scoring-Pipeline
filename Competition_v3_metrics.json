@@ -1,0 +1,14 @@
+{
+  "model": "0.6 CatBoost + 0.4 five-fold LightGBM v2",
+  "catboost_iterations": 1000,
+  "catboost_depth": 6,
+  "catboost_seed": 42,
+  "rows": 61500,
+  "features": 44,
+  "validation_auc_random_fold0": 0.7606475660261366,
+  "validation_auc_random_fold1": 0.7560761039261025,
+  "validation_blend_weight_catboost": 0.6,
+  "prediction_min": 0.0023925588871700114,
+  "prediction_max": 0.7574609792154209,
+  "seed": 42
+}

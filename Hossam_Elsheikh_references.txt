@@ -1,0 +1,8 @@
+REFERENCES FOR THE FINAL ASSIGNMENT
+
+1. International Telecommunication Union (2025). Facts and Figures 2025 — Subscriptions. https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-subscriptions/
+2. Capponi, G., Corrocher, N., & Zirulia, L. (2021). Personalized pricing for customer retention: Theory and evidence from mobile communication. Telecommunications Policy, 45(1), 102069. https://doi.org/10.1016/j.telpol.2020.102069
+3. LightGBM documentation (4.7.0): parameters, categorical features, and AUC. https://lightgbm.readthedocs.io/en/stable/Parameters.html
+4. Company A Client.csv and Record.csv plus the supplied Final Assignment dataset overview (course-provided data).
+
+AI disclosure required by the course: paste the URL to this chat history in Omnicampus References. Share this chat from the Codex app to obtain its URL.

@@ -1,0 +1,18 @@
+{
+  "validation_auc": 0.7579475722708294,
+  "best_iteration": 1376,
+  "train_rows": 171202,
+  "test_rows": 61500,
+  "features": 44,
+  "target_rate": 0.08072919708881905,
+  "validation_rows": 34242,
+  "seed": 42,
+  "folds": 5,
+  "submission_rows": 61500,
+  "submission_columns": [
+    "SK_ID_CURR",
+    "TARGET"
+  ],
+  "submission_min": 0.0024427306608521314,
+  "submission_max": 0.7576113146870304
+}

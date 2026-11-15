@@ -1,0 +1,40 @@
+{
+  "rows": 100000,
+  "features": 102,
+  "categorical_features": 21,
+  "churn_rate": 0.4956,
+  "validation_rows": 25000,
+  "validation_auc": 0.7021104290316242,
+  "average_precision": 0.6871190022814399,
+  "best_iteration": 734,
+  "top20_count": 5000,
+  "top20_churn_rate": 0.7368,
+  "top20_capture_rate": 0.2973365617433414,
+  "top20_lift_vs_base": 1.486682808716707,
+  "top20_mean_monthly_revenue_dataset_units": 54.57696638312739,
+  "business_scenarios": [
+    {
+      "assumed_incremental_retention_pp": 1.0,
+      "gross_revenue_saved_per_target": 6.549235965975287,
+      "assumed_offer_cost_per_target_dataset_units": 10.0,
+      "net_revenue_proxy_per_target": -3.450764034024713,
+      "break_even_retention_uplift_pp": 1.5268956641587181
+    },
+    {
+      "assumed_incremental_retention_pp": 3.0,
+      "gross_revenue_saved_per_target": 19.64770789792586,
+      "assumed_offer_cost_per_target_dataset_units": 10.0,
+      "net_revenue_proxy_per_target": 9.647707897925859,
+      "break_even_retention_uplift_pp": 1.5268956641587181
+    },
+    {
+      "assumed_incremental_retention_pp": 5.0,
+      "gross_revenue_saved_per_target": 32.74617982987643,
+      "assumed_offer_cost_per_target_dataset_units": 10.0,
+      "net_revenue_proxy_per_target": 22.746179829876432,
+      "break_even_retention_uplift_pp": 1.5268956641587181
+    }
+  ],
+  "seed": 42,
+  "model": "LightGBM native categorical binary classifier"
+}
